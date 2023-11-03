@@ -2,3 +2,8 @@ nav {
     display: flex;
     background-color: aqua;
 }
+
+#home{
+    display: flex;
+    background-color: #CCFCCB;
+}
